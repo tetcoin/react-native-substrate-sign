@@ -1,8 +1,8 @@
-# react-native-substrate-sign
+# react-native-tetcore-sign
 
-[![npm version](https://badge.fury.io/js/react-native-substrate-sign.svg)](https://badge.fury.io/js/react-native-substrate-sign)
+[![npm version](https://badge.fury.io/js/react-native-tetcore-sign.svg)](https://badge.fury.io/js/react-native-tetcore-sign)
 
-This React Native library packages practical crypto functions written in Rust for Substrate, Polkadot and Ethereum. Originally used for [Parity Signer](https://github.com/paritytech/parity-signer/).
+This React Native library packages practical crypto functions written in Rust for Tetcore, Polkadot and Vapory. Originally used for [Parity Signer](https://github.com/paritytech/parity-signer/).
 
 ## Getting started
 
