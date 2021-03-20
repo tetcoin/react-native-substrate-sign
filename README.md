@@ -2,12 +2,12 @@
 
 [![npm version](https://badge.fury.io/js/react-native-tetcore-sign.svg)](https://badge.fury.io/js/react-native-tetcore-sign)
 
-This React Native library packages practical crypto functions written in Rust for Tetcore, Polkadot and Vapory. Originally used for [Parity Signer](https://github.com/paritytech/parity-signer/).
+This React Native library packages practical crypto functions written in Rust for Tetcore, Tetcoin and Vapory. Originally used for [Tetsy Signer](https://github.com/tetcoinn/tetsy-signer/).
 
 ## Getting started
 
 ```shell script
-yarn add react-native-substrate-sign
+yarn add react-native-tetcore-sign
 cd ios && pod install && cd ..
 ```
 
